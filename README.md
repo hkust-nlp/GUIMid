@@ -73,8 +73,13 @@ We release our mid-training data for further research.
 | **Domain Combination（domains with ✓）**           |                   |               |               |                   |
 | **GUIMid**            | Image             | **34.3**      | **9.5**       | **21.2**          |
 
-<!-- ## Citation
+## Citation
 If you find this repository helpful, feel free to cite our paper:
 ```bibtex
-
-``` -->
+@article{zhang2025guimid,
+  title={Breaking the Data Barrier -- Building GUI Agents Through Task Generalization},
+  author={Zhang, Junlei and Ding, Zichen and Ma, Chang and Chen, Zijie and Sun, Qiushi and Lan, Zhenzhong and He, Junxian},
+  journal={arXiv preprint arXiv:2504.10127},
+  year={2025}
+}
+```
