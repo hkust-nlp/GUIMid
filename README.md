@@ -2,11 +2,12 @@
 
 <div align="center">
 
-💻 Training Code **Coming soon**   | 📝 Paper **Coming soon** | [🤗 Mid-training Data](https://huggingface.co/datasets/hkust-nlp/GUIMid/)
+💻 Training Code **Coming soon**   | 📝 [Paper](https://arxiv.org/abs/2504.10127)) | [🤗 Mid-training Data](https://huggingface.co/datasets/hkust-nlp/GUIMid/)
 </div>
 
 
 ## What's New
+- **[2025.04.16]** 📣 Our Paper is released in [arxiv](https://arxiv.org/abs/2504.10127)!
 - **[2025.04.08]** 📣 Our [Mid-training data](https://huggingface.co/datasets/hkust-nlp/GUIMid/) is released.
 
 ## Todo
