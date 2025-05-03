@@ -2,7 +2,7 @@
 
 <div align="center">
 
-💻 Training Code **Coming soon**   | 📝 [Paper](https://arxiv.org/abs/2504.10127) | [🤗 Mid-training Data](https://huggingface.co/datasets/hkust-nlp/GUIMid/)
+💻 Training Code **Coming soon**   | 📝 [Paper](https://arxiv.org/abs/2504.10127) | [🤗 Mid-training Data](https://huggingface.co/datasets/hkust-nlp/GUIMid/) |  [🤗 Post-Training Data](https://huggingface.co/datasets/hkust-nlp/GUIMid/blob/main/GUI_trajectory.json)
 </div>
 
 
